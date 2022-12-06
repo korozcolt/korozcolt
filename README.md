@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korozcolt
-- 👀 I’m interested in NodeJs, Laravel, Angular and ReactJS
+- 👀 I’m interested in NodeJs, Laravel and ReactJS
 - 🌱 I’m currently learning all that i want
 - 💞️ I’m looking to collaborate on anything that i can.
 
